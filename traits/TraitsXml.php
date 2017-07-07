@@ -1,5 +1,5 @@
 <?php
-namespace prome\sap\traits;
+namespace patpwilly\sapidoc\traits;
 /* 
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates

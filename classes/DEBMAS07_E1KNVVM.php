@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace prome\sap\classes;
+namespace patpwilly\sapidoc\classes;
 
 /**
  * Description of DEBMAS07_E1KNVVM
@@ -14,7 +14,7 @@ namespace prome\sap\classes;
  * @author pwilliamson
  */
 class DEBMAS07_E1KNVVM{
-    use \prome\sap\traits\TraitsXml;
+    use \patpwilly\sapidoc\traits\TraitsXml;
     public $iDoc;
     public function __construct(\SimpleXMLElement $x)
     {

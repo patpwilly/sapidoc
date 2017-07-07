@@ -5,14 +5,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-namespace prome\sap\classes;
+namespace patpwilly\sapidoc\classes;
 /**
  * Description of sap_idoc_input
  *
  * @author pwilliamson
  */
 class SapIdocInput {
-     use \prome\sap\traits\TraitsXml;
+     use \patpwilly\sapidoc\traits\TraitsXml;
     protected $iDoc;
     /**
      * 

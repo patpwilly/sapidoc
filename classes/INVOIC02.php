@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace prome\sap\classes;
+namespace patpwilly\sapidoc\classes;
 
 /**
  * Description of INVOIC02

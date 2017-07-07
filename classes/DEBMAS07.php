@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace prome\sap\classes;
+namespace patpwilly\sapidoc\classes;
 
 /**
  * Description of INVOIC02
@@ -14,7 +14,7 @@ namespace prome\sap\classes;
  * @author pwilliamson
  */
 class DEBMAS07 extends SapIdocInput {
-    use \prome\sap\traits\TraitsXml;
+    use \patpwilly\sapidoc\traits\TraitsXml;
     public function getCustomerNumber()
     {
         // customer_number in SAP

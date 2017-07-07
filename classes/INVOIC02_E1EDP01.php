@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace prome\sap\classes;
+namespace patpwilly\sapidoc\classes;
 
 /**
  * Description of INVOIC02_Item
@@ -18,7 +18,7 @@ namespace prome\sap\classes;
  * @author pwilliamson
  */
 class INVOIC02_E1EDP01 {
-    use \prome\sap\traits\TraitsXml;
+    use \patpwilly\sapidoc\traits\TraitsXml;
     public $iDoc;
     public function __construct(\SimpleXMLElement $x)
     {
